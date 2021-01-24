@@ -1,3 +1,3 @@
-public class majidl {
+class majidl {
 
 }
