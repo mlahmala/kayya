@@ -1,2 +1,3 @@
-public class maajid {
+public class majidl {
+
 }
